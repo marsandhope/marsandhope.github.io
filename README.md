@@ -1,7 +1,8 @@
 # Mars & Hope · Die Hand, die bleiben darf
 
 Die Lore-Webseite zum Epos: die Welt, die Vorgeschichte, die zwölf Kapitel der Reise mit ihren drei Enden,
-alle Personen, die drei Kulturen, die Gegner, die Menschen, Flora und Fauna auf einer lebenden Karte und die Karten des Mars.
+die kleinen Abenteuer am Wegrand, alle Personen, die drei Kulturen mit ihren Regeln, die Gegner, die Menschen, Flora und Fauna
+auf einer lebenden Karte, die Karten des Mars und eine Vorlesung der ganzen Seite mit der KI-Stimme Orus.
 
 Seite: https://marsandhope.github.io/
 
